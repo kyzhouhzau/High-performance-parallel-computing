@@ -13,7 +13,7 @@ step1:cd test1
 
 step2:python test1.py
 
-# Test1
+# Test2
 vector:Multiply result of two vectors designed by openmp(a parallel Compiler Directive)
 
 prime:Calculate prime numbers between 2 and 1,000,000 using OpenMP programming and export the results to a file for comparison ; display the number of primes found on the screen and analyze the number of threads from 1 to 8 for acceleration Ratio。
